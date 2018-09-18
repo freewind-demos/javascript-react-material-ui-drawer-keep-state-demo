@@ -1,9 +1,9 @@
-import Hello from './my-list.jsx'
+import MyDrawer from './my-drawer.jsx'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
 ReactDOM.render(
-    <Hello/>,
+    <MyDrawer/>,
     document.body
 )
 
